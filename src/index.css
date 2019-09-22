@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-size: calc(20px + 2vmin);
+  font-family: 'Bahianita', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, #6d2799, #5f46b9, #4618c5, #0089a0, #13ab97);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
